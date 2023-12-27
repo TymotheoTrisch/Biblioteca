@@ -41,7 +41,7 @@ As opções do menu podem ser selecionadas digitando o número correspondente e 
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corrigir bugs ou adicionar novos recursos. Certifique-se de seguir as boas práticas de desenvolvimento.
 
 # Licença
-Este projeto é licenciado sob a Licença ISC - consulte o arquivo LICENSE para obter detalhes.
+Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
 
 # Contato
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
